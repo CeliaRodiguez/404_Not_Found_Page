@@ -1,5 +1,5 @@
 /* SCREEN */
-@media (min-width: 1440px){
+@media (min-width: 900px){
     body{
         max-height: 949px;
         background-color: #FFFFFF;
@@ -94,7 +94,7 @@
 }
 
 /* MOBILE */
-@media (max-width: 500px){
+@media (max-width: 800px){
     body{
         max-width: 375px;
         max-height: 949px;
@@ -136,7 +136,7 @@
         color: #333333;
     }
     .text-info{
-        font-family: Space Mono;
+        font-family: 'Space Mono';
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
