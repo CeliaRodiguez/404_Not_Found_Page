@@ -73,4 +73,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Dezelyan](https://github.com/Dezelyan})
+- GitHub [@Dezelyan](https://github.com/Dezelyan)
