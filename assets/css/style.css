@@ -1,0 +1,182 @@
+/* SCREEN */
+@media (min-width: 1440px){
+    body{
+        max-height: 949px;
+        background-color: #FFFFFF;
+    }
+    header{
+        margin-top: 40px;
+        margin-left: 77px;
+    }
+    #head{
+        font-family: 'Inconsolata';
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 25px;
+        letter-spacing: -0.08em;
+        color: #333333;
+    }  
+    .container{
+        padding-left: 100px; 
+        margin-top: 100px;
+        margin-left: 77px;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+    }
+    .div-img{
+        margin-top: 50px;
+    } 
+    .img-big{
+        max-width: 540px;
+        height: 450px;
+    }
+    .div-text{
+        margin-left: 90px;
+        width: 600px;   
+    }
+    .tittle-info{
+        font-family: 'Space Mono', monospace;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 64px;
+        line-height: 95px;
+        letter-spacing: -0.035em;
+        color: #333333;
+        margin-bottom: 0px;
+    }
+    .text-info{
+        width: 381px;
+        font-family: 'Space Mono', monospace;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: -0.035em;
+        color: #4F4F4F;
+    }
+    .grey-block{
+        margin-top: 50px;
+        background-color: #333333;
+        width: 216px;
+        height: 68px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .white-text{
+        color:#FFFFFF;
+        font-family: 'Space Mono', monospace;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 21px;
+        letter-spacing: -0.035em;
+    }
+    footer{
+        margin-top: 200px;
+        display: flex;
+        justify-content: center;
+    }
+    .foot-text{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        color: #4F4F4F;
+    }
+    a{
+        text-decoration: none;
+        color: #444585;
+    }
+}
+
+/* MOBILE */
+@media (max-width: 500px){
+    body{
+        max-width: 375px;
+        max-height: 949px;
+        background-color: #FFFFFF;
+    }
+    header{
+        margin-top: 20px;
+        margin-left: 24px;
+    }
+    #head{
+        font-family: 'Inconsolata';
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 25px;
+        letter-spacing: -0.08em;
+        color: #333333;
+    }  
+    .container{
+        margin-left: 24px;
+    }
+    .div-img{
+        margin-left: 20px;
+        margin-top: 50px;
+    }
+    .img-big{
+        max-width: 300px;
+        height: 238px;
+    }
+    .div-text{
+        margin-top: 50px;
+    }
+    .tittle-info{
+        font-family: 'Space Mono', monospace;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 48px;
+        line-height: 71px;
+        letter-spacing: -0.035em;
+        color: #333333;
+    }
+    .text-info{
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: -0.035em;
+        color: #4F4F4F; 
+        margin-top: -20px;
+    }
+    .grey-block{
+        margin-top: 50px;
+        background-color: #333333;
+        width: 216px;
+        height: 68px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .white-text{
+        color:#FFFFFF;
+        font-family: 'Space Mono', monospace;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 21px;
+        letter-spacing: -0.035em;
+    }
+    footer{
+        margin-top: 150px;
+    }
+    .foot-text{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        color: #4F4F4F; 
+    }
+    a{
+        text-decoration: none;
+        color: #444585;
+    }
+}
