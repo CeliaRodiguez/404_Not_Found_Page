@@ -27,9 +27,13 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+  - [Built With]
+    - HTML
+    - CSS
+    - Visual Studio Code
 - [Features](#features)
-- [Contact](#contact)
+- [Contact]
+   - dezelyan@gmail.com
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
@@ -43,15 +47,16 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Where can I see your demo?
   https://dezelyan.github.io/404_Not_Found_Page/
 - What was your experience?
-  
+   one month internship
 - What have you learned/improved?
+   I have learned about media and responsive design
 - Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
+- [React](https://reactjs.org/) 
 - [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
