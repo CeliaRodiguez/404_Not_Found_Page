@@ -41,7 +41,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  https://dezelyan.github.io/404_Not_Found_Page/
+  https://CeliaRodriguez.github.io/404_Not_Found_Page/
 - What was your experience?
    one month internship
 - What have you learned/improved?
@@ -73,4 +73,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Dezelyan](https://github.com/Dezelyan)
+- GitHub [@CeliaRodriguez](https://github.com/CeliaRodriguez)
