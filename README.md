@@ -41,7 +41,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-  https://celiarodriguez.github.io/404_Not_Found_Page/
+  https://dezelyan.github.io/404_Not_Found_Page/
 - What was your experience?
    one month internship
 - What have you learned/improved?
